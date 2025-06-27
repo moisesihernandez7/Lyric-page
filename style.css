@@ -16,3 +16,6 @@ background-color:rgb(231, 231, 223);
 display: block;
 margin: auto;
 }
+body{
+    background-image: url(Rain.jpg);
+}
